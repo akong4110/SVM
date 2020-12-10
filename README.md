@@ -7,5 +7,7 @@ Execute cells for Questions 1-5 to obtain the results I used for my kaggle predi
 My kaggle submissions are listed:
 
 https://www.kaggle.com/c/spring20-cs189-hw1-spam/leaderboard
+
 https://www.kaggle.com/c/spring20-cs189-hw1-cifar10/leaderboard
+
 https://www.kaggle.com/c/spring20-cs189-hw1-mnist/leaderboard
