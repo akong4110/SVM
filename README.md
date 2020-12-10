@@ -4,7 +4,7 @@ Implemented linear support vector machines to classify mnist_data.mat, spam_data
 
 Execute cells for Questions 1-5 to obtain the results I used for my kaggle predictions. 
 
-My kaggle submissions are listed:
+For my kaggle submissions, my MNIST prediction is listed under the username 'hw' and my SPAM and CIFAR predictions are listed under the username 'mmchicken':
 
 https://www.kaggle.com/c/spring20-cs189-hw1-spam/leaderboard
 
